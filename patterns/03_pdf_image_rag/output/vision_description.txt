@@ -1,0 +1,52 @@
+Based on the provided Metro State University campus map, here is a detailed analysis of the spatial information, building locations, and key features.
+
+### **1. Campus Layout & Major Roads**
+The campus is organized around a grid of streets.
+*   **Horizontal Streets:** The main horizontal thoroughfares are **E. 7th Street** (running across the upper middle section) and **E. 6th Street** (running across the lower middle section).
+*   **Vertical Streets/Avenues:**
+    *   **Mounds Blvd** is on the far west side.
+    *   **Bates Avenue** runs vertically through the center-right of the campus.
+    *   **Maria Avenue** is on the far east side.
+*   **Transit Access:** There are four **Metro Transit** stops (marked with a red 'T' icon) located at the intersections of these main streets:
+    *   NW corner of E. 7th & Bates Ave.
+    *   NE corner of E. 7th & Maria Ave.
+    *   SW corner of E. 7th & Mounds Blvd (implied by location).
+    *   SE corner of E. 7th & Maria Ave.
+
+### **2. Building Locations & Spatial Relationships**
+
+**Northwest Quadrant (Above E. 7th St, Left of Bates Ave)**
+*   **Library and Learning Center (LIB):** A large, prominent red building. It is situated north of E. 7th Street.
+    *   *Adjacent Features:* The **North Library Parking Lot** (light blue) is directly north of the LIB. The **Library Parking Lot** (purple) is to the east of the LIB.
+    *   *Internal:* Contains the **Saint Paul Public Library** (Downtown Branch) within its footprint.
+*   **Grow-It Center:** A small green building located to the east of the Library, near the intersection of E. 7th and Maria Ave.
+*   **Fine Arts Studio:** A blue building located south of the Grow-It Center, adjacent to Maria Avenue.
+
+**Central/Southwest Quadrant (Below E. 7th St, Left of Bates Ave)**
+*   **New Main (NM):** A large blue building on the west side, bounded by Mounds Blvd to the west and E. 6th St to the south.
+*   **St. John's Hall (SJH):** A dark purple building located east of New Main and north of E. 6th Street. It sits directly south of the 7th Street Parking Lot.
+*   **Founders Hall (FH):** A maroon building located south of St. John's Hall and east of the Auditorium. It is situated near the intersection of E. 6th St and Bates Ave.
+*   **Auditorium:** A smaller maroon building located west of Founders Hall and south of New Main.
+*   **Science Education Center (SEC):** An orange building located in the bottom-left corner, south of E. 6th Street and west of Bates Ave.
+
+**Southeast Quadrant (Below E. 7th St, Right of Bates Ave)**
+*   **Student Center (SC):** A green building located north of the Parking Ramp and west of Bates Avenue.
+*   **Parking Ramp:** A large grey structure labeled "Student, Employee and Guest Parking." It is located south of the Student Center and north of the Ramp Parking Lot.
+*   **Ramp Parking Lot:** A large surface lot located directly south of the Parking Ramp, bounded by E. 6th Street to the south.
+
+### **3. Parking Locations & Types**
+The map uses color-coding to distinguish parking types (as per the legend):
+*   **Light Blue (General Parking):**
+    *   **North Library Parking Lot:** North of the Library.
+    *   **7th Street Parking Lot:** A large lot running along the south side of E. 7th Street, between Mounds Blvd and Bates Ave.
+    *   **Fine Arts Studio Parking:** Small lot next to the Fine Arts Studio.
+*   **Purple (Two-Hour Library Parking / Courtyard Parking):**
+    *   **Library Parking Lot:** East of the Library.
+    *   **Courtyard Parking Lot:** Located between St. John's Hall and Founders Hall.
+*   **Grey (Parking Ramp & Lot):**
+    *   **Parking Ramp:** Multi-level structure in the SE quadrant.
+    *   **Ramp Parking Lot:** Surface lot south of the ramp.
+
+### **4. Tunnels and Skyways**
+The map explicitly labels underground and elevated connections:
+*   **Tunnels (

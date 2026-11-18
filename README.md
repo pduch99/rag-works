@@ -290,24 +290,24 @@ Open a new terminal afterwards. If `ollama` is "not recognized", add it to your 
 ```
 then close and reopen the terminal.
 
-**2. Pull the model.** Use the **instruct** version. The default `qwen3-vl:8b` "thinks" out loud first, which is slower and eats the answer's token budget.
+**2. Pull the model.** Use the **ct** version. The default `qwen3-vl:8b` "thinks" out loud first, which is slower and eats the answer's token budget.
 ```
-ollama pull qwen3-vl:8b-instruct
+ollama pull qwen3-vl:8b-ct
 ```
 
 **3. Give it a bigger context.** Ollama defaults to a 4096-token context, and our requests with images need about 5,000. Bake a bigger context into a copy of the model (it shares the same files, no extra disk):
 ```
-"FROM qwen3-vl:8b-instruct`nPARAMETER num_ctx 12288" | Out-File -Encoding ascii Modelfile
+"FROM qwen3-vl:8b-ct`nPARAMETER num_ctx 12288" | Out-File -Encoding ascii Modelfile
 ollama create rag-vl -f Modelfile
 ```
-(Mac / Linux: `printf 'FROM qwen3-vl:8b-instruct\nPARAMETER num_ctx 12288\n' > Modelfile`)
+(Mac / Linux: `printf 'FROM qwen3-vl:8b-ct\nPARAMETER num_ctx 12288\n' > Modelfile`)
 
 **4. Check it runs on the GPU.**
 ```
 ollama run rag-vl "hi"
 ollama ps
 ```
-`PROCESSOR` should say `100% GPU` and `CONTEXT` should say `12288`. A CPU/GPU split means the model doesn't fit: use `qwen3-vl:4b-instruct` instead.
+`PROCESSOR` should say `100% GPU` and `CONTEXT` should say `12288`. A CPU/GPU split means the model doesn't fit: use `qwen3-vl:4b-ct` instead.
 
 **5. Point RAG Works at it.** In `.env`:
 ```
@@ -585,7 +585,7 @@ All settings live in `.env` (copy `.env.example`). `.env` is gitignored, never c
 
 ## 14. Acknowledgments and license
 
-- [instructor name], for the project direction and weekly feedback
+- Siva Jasthi, for the project direction and weekly feedback
 - The RAG Works and LLM RAG Evaluation reference repositories provided at the start of the project
 - Metro State University public web pages and campus map, used as the test corpus
 - Open-source projects this is built on: Streamlit, ChromaDB, PyMuPDF, fastembed (BAAI bge, MS MARCO cross-encoder), rank-bm25, Ollama, Qwen3-VL

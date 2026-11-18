@@ -1,0 +1,5 @@
+{
+ "name": "Test bed (10 PDFs)",
+ "about": "fp7 multimodal test bed: 10 public pdfs with images, ~45 gold questions",
+ "describe_hint": "copy every label and number exactly. for charts give axis labels and the values you can read. for maps and diagrams say where each labeled thing sits relative to the others"
+}

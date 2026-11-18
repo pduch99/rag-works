@@ -1,0 +1,127 @@
+{
+ "28e80c7fbd44|p1|full:full": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "full",
+  "region": "full",
+  "text": "Based on the provided Metro State University campus map, here is a detailed analysis of the spatial information, building locations, and key features.\n\n### **1. Campus Layout & Major Roads**\nThe campus is organized around a grid of streets.\n*   **Horizontal Streets:** The main horizontal thoroughfares are **E. 7th Street** (running across the upper middle section) and **E. 6th Street** (running across the lower middle section).\n*   **Vertical Streets/Avenues:**\n    *   **Mounds Blvd** is on the far west side.\n    *   **Bates Avenue** runs vertically through the center-right of the campus.\n    *   **Maria Avenue** is on the far east side.\n*   **Transit Access:** There are four **Metro Transit** stops (marked with a red 'T' icon) located at the intersections of these main streets:\n    *   NW corner of E. 7th & Bates Ave.\n    *   NE corner of E. 7th & Maria Ave.\n    *   SW corner of E. 7th & Mounds Blvd (implied by location).\n    *   SE corner of E. 7th & Maria Ave.\n\n### **2. Building Locations & Spatial Relationships**\n\n**Northwest Quadrant (Above E. 7th St, Left of Bates Ave)**\n*   **Library and Learning Center (LIB):** A large, prominent red building. It is situated north of E. 7th Street.\n    *   *Adjacent Features:* The **North Library Parking Lot** (light blue) is directly north of the LIB. The **Library Parking Lot** (purple) is to the east of the LIB.\n    *   *Internal:* Contains the **Saint Paul Public Library** (Downtown Branch) within its footprint.\n*   **Grow-It Center:** A small green building located to the east of the Library, near the intersection of E. 7th and Maria Ave.\n*   **Fine Arts Studio:** A blue building located south of the Grow-It Center, adjacent to Maria Avenue.\n\n**Central/Southwest Quadrant (Below E. 7th St, Left of Bates Ave)**\n*   **New Main (NM):** A large blue building on the west side, bounded by Mounds Blvd to the west and E. 6th St to the south.\n*   **St. John's Hall (SJH):** A dark purple building located east of New Main and north of E. 6th Street. It sits directly south of the 7th Street Parking Lot.\n*   **Founders Hall (FH):** A maroon building located south of St. John's Hall and east of the Auditorium. It is situated near the intersection of E. 6th St and Bates Ave.\n*   **Auditorium:** A smaller maroon building located west of Founders Hall and south of New Main.\n*   **Science Education Center (SEC):** An orange building located in the bottom-left corner, south of E. 6th Street and west of Bates Ave.\n\n**Southeast Quadrant (Below E. 7th St, Right of Bates Ave)**\n*   **Student Center (SC):** A green building located north of the Parking Ramp and west of Bates Avenue.\n*   **Parking Ramp:** A large grey structure labeled \"Student, Employee and Guest Parking.\" It is located south of the Student Center and north of the Ramp Parking Lot.\n*   **Ramp Parking Lot:** A large surface lot located directly south of the Parking Ramp, bounded by E. 6th Street to the south.\n\n### **3. Parking Locations & Types**\nThe map uses color-coding to distinguish parking types (as per the legend):\n*   **Light Blue (General Parking):**\n    *   **North Library Parking Lot:** North of the Library.\n    *   **7th Street Parking Lot:** A large lot running along the south side of E. 7th Street, between Mounds Blvd and Bates Ave.\n    *   **Fine Arts Studio Parking:** Small lot next to the Fine Arts Studio.\n*   **Purple (Two-Hour Library Parking / Courtyard Parking):**\n    *   **Library Parking Lot:** East of the Library.\n    *   **Courtyard Parking Lot:** Located between St. John's Hall and Founders Hall.\n*   **Grey (Parking Ramp & Lot):**\n    *   **Parking Ramp:** Multi-level structure in the SE quadrant.\n    *   **Ramp Parking Lot:** Surface lot south of the ramp.\n\n### **4. Tunnels and Skyways**\nThe map explicitly labels underground and elevated connections:\n*   **Tunnels (",
+  "model": "qwen/qwen3.8-27b",
+  "at": "fp4"
+ },
+ "28e80c7fbd44|p1|2x2:nw": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "2x2",
+  "region": "nw",
+  "text": "Based on the provided image and its cropped regions, here is a concise analysis of the information clearly visible:\n\n**Overall Context (Top-Left Image):**\n*   **Campus:** Metro State University (part of \"Metro U... A member of Minn...\").\n*   **Key Roads:** E. 7th Street runs horizontally across the center. Maria Avenue runs vertically on the right side.\n*   **Primary Landmark (Center-Left):** A large brown building labeled \"LIBRARY AND LEARNING CENTER (LIB)\" and \"SAINT PAUL PUBLIC LIBRARY Dayston's Bluf\".\n*   **Parking Lots:**\n    *   \"NORTH LIBRARY PARKING LOT\" (blue) is to the north of the Library.\n    *   \"LIBRARY PARKING LOT\" (purple) is to the east of the Library.\n    *   \"7TH STREET PARKING LOT\" (light blue with dark spots for cars) is to the south of the Library, along E. 7th Street.\n*   **Other Buildings:**\n    *   \"FINE ARTS / GALLERY STUDIO\" (orange) is on the far right, west of Maria Avenue.\n    *   \"GROW-IT CENTER\" (green) is north of the Fine Arts Studio.\n    *   \"ST. JOHN'S HALL (6th W...)\" (dark purple) is in the lower right corner, south of the 7th Street Parking Lot.\n*   **Infrastructure:** A vertical structure labeled \"SKYW...\" (likely Skyway) connects the ground level near the Library entrance to an upper level near St. John's Hall. A red circle with a 'T' indicates a transit stop near the intersection of E. 7th St and Maria Ave.\n*   **Outdoor Features:** A circular feature labeled \"LABYRINTH\" is visible to the west of the Library.\n\n**Detailed Views (Cropped Images):**\n\n*   **Bottom-Left Crop (Focus on Labyrinth & Library Entrance):**\n    *   Confirms the \"LABYRINTH\" and its position relative to the \"LIBRARY AND LEARNING CENTER (LIB)\".\n    *   Shows the entrance area of the library with several icons: coffee (food/cafe), restrooms, phone, information, accessibility, and a \"No Smoking\" sign.\n    *   Shows the",
+  "model": "qwen/qwen3.8-27b",
+  "at": "fp5"
+ },
+ "28e80c7fbd44|p1|2x2:ne": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "2x2",
+  "region": "ne",
+  "text": "Based on the cropped images provided, here is the description of the clearly visible information:\n\n*   **Building Names**:\n    *   **STUDENT CENTER (SC)**: This is the primary building labeled in the map section (bottom center image), pictured as a green polygon.\n\n*   **Roads**:\n    *   **E. 7th Street**: This road is visible running horizontally across the top of the map section (bottom center image). The legend border has a rounded corner specifically accommodating a transit station located on this street.\n\n*   **Parking**:\n    *   **Indicated spaces**: To the left and rear of the Student Center, the map shows a gray polygon (representing a parking ramp/lot) and a purple-shaded area (representing \"Permit Only Parking\" or \"Courtyard Parking\" based on the legend).\n    *   **Parking Icons**: Inside the footprint of the Student Center on the left side, there is a row of circular blue and black icons indicating parking and mobility access (Standard parking `P`, Handicap parking, Bicycle parking).\n\n*   **Spatial Relationships & Amenities (Inside Student Center)**:\n    *   **West/Wing Area**: The left side (west) of the building is depicted as a vertical white column containing accessibility and retail icons:\n        *   Security Desk\n        *   Seating/Meeting Area\n        *   Baby Changing Station\n        *   All-Gender Restroom & Restroom\n        *   Parking Pay Kiosk\n    *   **Main Area**: To the right of the white column (inside the green building mass), there are icons for:\n        *   Elevators\n        *   Fitness Room\n        *   Lactation Space\n        *   Reflection Room\n        *   Information Desk (`?`)\n\n*   **Transport & Tunnels**:\n    *   **Transit**: There is a prominent red \"T\" (Metro Transit) icon located at the northeast corner of the map crop, appearing to sit on a gray ramp or tunnel structure that cuts through the greenery and nears the street. Another \"T\" icon is partially visible to the right.\n    *   **Emergency Infrastructure**: A blue telephone icon (Emergency Code Blue Phone) is visible on the pathway/lawn area to the right of the main building (bottom center image).",
+  "model": "qwen/qwen3.8-27b",
+  "at": "fp5"
+ },
+ "28e80c7fbd44|p1|2x2:sw": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "2x2",
+  "region": "sw",
+  "text": "Based on the provided crop of the Metro State campus map, here are the visible details:\n\n**Buildings:**\n*   **New Main (NM):** A large building shown in blue on the left side.\n*   **Founders Hall (FH):** A building shown in maroon on the right side.\n*   **Jason R. Carter Science Education Center (SEC):** An orange-colored building located across the street.\n*   **Auditorium:** Partially visible, connecting the area behind Founders Hall.\n*   **Student Health/Hall (SJH):** Partially visible at the very top right.\n\n**Roads & Boundaries:**\n*   **E. 6th Street:** Runs horizontally across the lower-middle section of the map.\n*   **Mounds Blvd.:** Runs vertically along the left edge of the map.\n\n**Transportation & Parking:**\n*   **Court Yard Parking Lot:** Located to the right of New Main (NM). There is a walking tunnel connecting the main campus area to this lot.\n*   Bus routes (such as \"08\" and \"10\") are labeled along paths in the upper section of the crop.\n\n**Connections & Spatial Relationships:**\n*   **Tunnels:** There are labeled walking tunnels connecting different parts of the campus. Specifically, tunnels connect the area near the Courtyard Parking to the buildings, and another tunnel connects the area near New Main to Founders Hall.\n*   **Skyway:** A vertical label \"SKYWAY\" is visible, indicating an overhead walkway located over E. 6th Street, connecting the buildings on the north side to the Jason R. Carter Science Education Center on the south side.",
+  "model": "qwen/qwen3.8-27b",
+  "at": "fp5"
+ },
+ "28e80c7fbd44|p1|2x2:se": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "2x2",
+  "region": "se",
+  "text": "Based on the provided crop of the map (the bottom-right quadrant), here are the visible details:\n\n**Buildings & Parking**\n*   **Parking Ramp:** A large grey structure labeled \"PARKING RAMP\" (text partially cut off). The subtitle indicates it is for \"STUDENT, EMPLOYEE AND GUEST PARKING\".\n*   **Ramp Parking Lot:** Located to the left (west) of the parking ramp. It features distinct parking rows and includes icons for a \"P\" (parking) and a telephone (blue circle).\n*   **Large Building Footprint:** A large, light-green rectangular area occupies the bottom right. It features a series of windows or wall segments along its northern and western edges. This appears to be a large low-rise building or an open courtyard space enclosed by a perimeter wall.\n\n**Roads**\n*   **Bates Avenue:** A vertical road running along the right (east) edge of the crop. It runs parallel to the \"Parking Ramp\" and the green area.\n*   **Maria Avenue:** A vertical road on the far left edge of the crop (partially visible).\n*   **E. 6th Street:** A horizontal road dividing the top half from the bottom half of the crop. It runs along the top edge of the large green rectangular area.\n\n**Symbols & Icons**\n*   **Compass Rose:** Located in the center of the green space, indicating the cardinal directions.\n*   **Parking Icons:** Blue circles with a white \"P\".\n*   **Phone Icons:** Blue circles with a white handset symbol (appearing in the parking lot and near the ramp).\n\n**Revision Info**\n*   The text **\"Revision Date: 3/25\"** is visible at the very bottom right corner.",
+  "model": "qwen/qwen3.8-27b",
+  "at": "fp5"
+ },
+ "28e80c7fbd44|p1|layout:0.0000,0.0043,0.5000,0.5021|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1nw",
+  "style": "structured",
+  "text": "LABELS:\nMETRO | 70,18\nUNIVER | 70,22\nA member of Mi | 70,25\nNORTH LIBRARY | 30,31\nPARKING LOT | 30,33\nLIBRARY | 32,38\nAND | 32,40\nLEARNING | 32,42\nCENTER | 32,44\n(LIB) | 32,46\nLIBRARY | 43,36\nPARKING LOT | 43,38\nSAINT PAUL | 40,48\nPUBLIC LIBRARY | 40,50\nDayton's Bluff | 40,52\nLABYRINTH | 13,50\nGROW-IT | 63,45\nCENTER | 63,47\nLIBRARY | 58,56\nPARKING LOT | 58,58\nFINE ARTS | 71,54\nSTUDIO | 71,56\nMaria Avenue | 76,48\nE. 7th Street | 40,70\nSKYWAY | 30,68\n7TH STREET | 38,82\nPARKING LOT | 38,84\nST. JOHN'S | 72,92\nHALL (SJH) | 72,94\nT | 76,78\n\nSUMMARY:\nThis is a section of a campus map for Metro University. The central feature is the Library and Learning Center (LIB), a large brown building. To its west (left) is the Labyrinth. North of the LIB is the North Library Parking Lot. East of the LIB are the Grow-It Center and the Fine Arts Studio, with the Library Parking Lot situated between them and the LIB. Maria Avenue runs vertically along the eastern edge. E. 7th Street runs horizontally across the middle, separating the upper buildings from the 7th Street Parking Lot and St. John's Hall (SJH) located to the south. A Skyway crosses E. 7th Street, connecting the LIB area to the southern buildings.",
+  "model": "qwen/qwen3.8-27b",
+  "at": "2026-11-10 17:35"
+ },
+ "28e80c7fbd44|p1|layout:0.5000,0.0043,1.0000,0.5021|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1ne",
+  "style": "structured",
+  "text": "LABELS:\nSTATE | 15,18\nRSITY | 15,22\nnesota State | 15,27\nLegend | 18,38\nPARKING RAMP AND LOT | 25,45\nTWO-HOUR LIBRARY PARKING* | 25,48\nPERMIT ONLY PARKING | 25,51\nGENERAL PARKING | 25,54\nCOURTYARD PARKING | 25,58\nParking spaces for students with Metro permit | 25,60\nHandicap spaces for employees with Metro permit | 25,62\nMotorcycle parking spaces | 25,64\nPARKING | 25,67\n*Follow posted signs concerning time/permit restrictions | 25,72\nALL-GENDER RESTROOM | 45,45\nRESTROOMS | 45,48\nATM | 45,51\nELEVATORS | 45,54\nFITNESS ROOM | 45,57\nMetroTransit | 45,60\nEMERGENCY CODE BLUE PHONE | 45,63\nLACTATION SPACE | 65,45\nBABY CHANGING STATION | 65,48\nPARKING PAY KIOSK | 65,51\nREFLECTION ROOM | 65,54\nSECURITY DESK | 65,57\nVENDING MACHINE | 65,60\nVIDEO PHONE | 65,63\nINFORMATION DESK | 65,66\nE. 7th Street | 30,75\nSTUDENT CENTER (SC) | 30,88\n\nSUMMARY:\nThis image is a section of a campus map for Minnesota State, featuring a detailed legend and a specific building layout. The legend, located in the upper portion, defines symbols for parking types (ramps, lots, permit-only, general, courtyard) and building amenities (restrooms, ATMs, elevators, fitness rooms, security, vending, etc.). Below the legend, a map segment shows the \"Student Center (SC)\" situated south of \"E. 7th Street.\" The Student Center is a large green building containing numerous amenities, including a fitness room, security desk, and various restrooms. To the east of the Student Center, across a street, is a green space with a video phone and a transit stop (marked with a red 'T'). Another transit stop is visible to the west. The map uses color-coding to distinguish between different parking zones and building footprints.",
+  "model": "qwen/qwen3.8-27b",
+  "at": "2026-11-10 17:35"
+ },
+ "28e80c7fbd44|p1|layout:0.0000,0.5021,0.5000,1.0000|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1sw",
+  "style": "structured",
+  "text": "LABELS:\nNEW MAIN (NM) | 20,25\nTUNNEL | 35,20\nTUNNEL | 55,25\nAUDITORIUM | 38,25\nFOUNDERS HALL (FH) | 70,30\nE. 6th Street | 65,38\nMounds Blvd. | 10,55\nJASON R. CARTER SCIENCE EDUCATION CENTER (SEC) | 40,55\nCOURT YARD PARKING LOT | 65,15\nTUNNEL | 50,10\nHALL (SH) | 70,2\n\nSUMMARY:\nThis is a campus map showing the layout of buildings and infrastructure. New Main (NM) is a large blue building on the left, connected via tunnels to the Auditorium and Founders Hall (FH) to its right. The Court Yard Parking Lot is located north of Founders Hall. E. 6th Street runs horizontally across the middle, separating the upper buildings from the Jason R. Carter Science Education Center (SEC) below. Mounds Blvd. runs vertically along the left edge. A tunnel connects the upper area to the lower area near the street.",
+  "model": "qwen/qwen3.8-27b",
+  "at": "2026-11-10 17:35"
+ },
+ "28e80c7fbd44|p1|layout:0.5000,0.5021,1.0000,1.0000|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1se",
+  "style": "structured",
+  "text": "LABELS:\nPARKING RAMP | 48,10\nSTUDENT, EMPLOYEE | 48,13\nAND GUEST PARKING | 48,16\nBates Avenue | 68,15\nRAMP PARKING LOT | 28,32\nE. 6th Street | 30,42\nMaria Avenue | 5,55\nN | 55,55\nNE | 58,58\nE | 55,61\nSE | 52,63\nS | 49,61\nSW | 46,58\nW | 48,55\nNW | 52,53\nRevision Date: 3/25 | 65,78\n\nSUMMARY:\nThis is a section of a campus map showing the intersection of E. 6th Street, Bates Avenue, and Maria Avenue. The \"Parking Ramp\" (labeled for student, employee, and guest parking) is located in the upper right, adjacent to Bates Avenue. Directly south of the ramp, across E. 6th Street, lies the \"Ramp Parking Lot,\" which contains marked parking spaces and phone icons. To the west of the parking lot is a large green field bordered by Maria Avenue on the left. A compass rose is situated in the center of the field, indicating North is up. The map includes icons for accessibility, bicycles, and phones near the parking structures.",
+  "model": "qwen/qwen3.8-27b",
+  "at": "2026-11-10 17:36"
+ },
+ "28e80c7fbd44|p1|layout:0.0000,0.0043,0.6500,0.6515|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1nw",
+  "style": "structured",
+  "text": "LABELS:\nMETRO UNIVERSITY | 83,15\nA member of Mi | 83,27\nNORTH LIBRARY PARKING LOT | 35,35\nLIBRARY AND LEARNING CENTER (LIB) | 38,42\nSAINT PAUL PUBLIC LIBRARY | 55,50\nDayton's Bluff | 58,53\nGROW-IT CENTER | 77,49\nFINE ARTS STUDIO | 91,57\nMaria Avenue | 98,45\nE. 7th Street | 52,75\nSKYWAY | 40,72\n7TH STREET PARKING LOT | 54,85\nST. JOHN'S HALL (SJH) | 75,95\nLabyrinth | 20,53\n\nSUMMARY:\nThis is a campus map showing the northern section of Metro University. The Library and Learning Center (LIB) is the central building, with the Saint Paul Public Library adjacent to its south. To the north is the North Library Parking Lot. To the east are the Grow-It Center and Fine Arts Studio, with the Library Parking Lot below them. Maria Avenue runs along the east edge. E. 7th Street runs horizontally below the LIB, with the 7th Street Parking Lot beneath it. A skyway connects the LIB to the parking lot and the south. The Labyrinth is to the west of the LIB.",
+  "model": "rag-vl",
+  "at": "2026-11-17 17:49"
+ },
+ "28e80c7fbd44|p1|layout:0.3500,0.0043,1.0000,0.6515|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1ne",
+  "style": "structured",
+  "text": "LABELS:\nSTATE UNIVERSITY | 12,17\nMinnesota State | 12,24\nLegend | 33,37\nPARKING RAMP AND LOT | 43,44\nTWO-HOUR LIBRARY PARKING* | 43,51\nPERMIT ONLY PARKING | 43,59\nGENERAL PARKING | 43,67\nCOURTYARD PARKING | 43,75\nPARKING | 43,83\nALL-GENDER RESTROOM | 52,44\nRESTROOMS | 52,51\nATM | 52,59\nELEVATORS | 52,67\nFITNESS ROOM | 52,75\nMetroTransit | 52,83\nEMERGENCY CODE BLUE PHONE | 52,91\nLACTATION SPACE | 62,44\nBABY CHANGING STATION | 62,51\nPARKING PAY KIOSK | 62,59\nREFLECTION ROOM | 62,67\nSECURITY DESK | 62,75\nVENDING MACHINE | 62,83\nVIDEO PHONE | 62,91\nINFORMATION DESK | 62,99\nE. 7th Street | 33,79\nSTUDENT CENTER (SC) | 33,87\nT | 17,71\nT | 87,71\nT | 87,87\nT | 87,95\nT | 95,87\nT | 95,95\n\nSUMMARY:\nThis is a map section showing the Student Center (SC) and its immediate surroundings. The map includes a legend for various amenities like restrooms, elevators, and parking. The Student Center is centrally located, with a MetroTransit station (T) to its right and another to its upper right. A blue emergency phone is to the right of the Student Center. The map shows E. 7th Street running horizontally across the bottom. The legend explains symbols for parking types, restrooms, and other services. No compass is shown.",
+  "model": "rag-vl",
+  "at": "2026-11-17 17:49"
+ },
+ "28e80c7fbd44|p1|layout:0.0000,0.3528,0.6500,1.0000|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1sw",
+  "style": "structured",
+  "text": "LABELS:\nNEW MAIN (NM) | 18,30\nTUNNEL | 32,40\nAUDITORIUM | 48,20\nFOUNDERS HALL (FH) | 70,20\nCOURT YARD PARKING LOT | 80,10\nE. 6th Street | 65,40\nMounds Blvd. | 15,50\nJASON R. CARTER SCIENCE EDUCATION CENTER (SEC) | 50,55\nSKYWAY | 55,40\nTUNNEL | 60,10\n\nSUMMARY:\nThis is a campus map section showing buildings and infrastructure. The Jason R. Carter Science Education Center (SEC) is below E. 6th Street and to the right of Mounds Blvd. Above it is the Auditorium, which is north of the SEC. To the right of the Auditorium is Founders Hall (FH). To the left is New Main (NM). A skyway connects the SEC to the Auditorium. Tunnels connect buildings. The Court Yard Parking Lot is north of Founders Hall.",
+  "model": "rag-vl",
+  "at": "2026-11-17 17:49"
+ },
+ "28e80c7fbd44|p1|layout:0.3500,0.3528,1.0000,1.0000|s": {
+  "doc": "campus_map.pdf",
+  "page": 1,
+  "grid": "layout",
+  "region": "f1se",
+  "style": "structured",
+  "text": "LABELS:\nPARKING RAMP | 27,30\nSTUDENT, EMPLOYEE AND GUEST PARKING | 27,30\nRAMP PARKING LOT | 27,30\nE. 6th Street | 34,40\nMaria Avenue | 10,50\nBates Avenue | 80,10\nRevision Date: 3/25 | 80,80\nN | 60,55\nE | 60,55\nS | 60,55\nW | 60,55\nNW | 60,55\nNE | 60,55\nSW | 60,55\nSE | 60,55\n\nSUMMARY:\nThis is a map section showing parking facilities. The PARKING RAMP (top) is north of the RAMP PARKING LOT (middle). E. 6th Street runs horizontally below the parking lot. Maria Avenue is on the left, Bates Avenue on the right. A compass rose (centered) indicates north. No buildings or other named features are shown. The revision date is 3/25.",
+  "model": "rag-vl",
+  "at": "2026-11-17 17:50"
+ }
+}

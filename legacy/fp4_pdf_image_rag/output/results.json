@@ -1,0 +1,194 @@
+[
+  {
+    "question": "Where is the Student Center based on the map?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "Based on the provided text, the Student Center (SC) is located between E. 7th Street and E. 6th Street, near the Main (NM) Tunnel, the Student, Employee and Guest Parking Lot, and St. John\u2019s Hall (SJH).",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "multimodal_answer": "Based on the provided Metro State University campus map, the Student Center (SC) is located in the southeast quadrant of the main campus area.\n\nMore specifically, its location is defined by the following boundaries and adjacent features:\n\n- **North:** It is located directly south of **E. 7th Street**.\n- **West:** It is situated east of **Bates Avenue**. In fact, the boundary on its west side appears to align with or be very close to Bates Avenue, which runs vertically through the center of the campus.\n- **South:** It is located directly north of the large grey **Parking Ramp** (labeled \"Student, Employee and Guest Parking\").\n- **East:** It is located west of another north-south road that is not labeled on this section of the map but is situated between Bates Avenue and Maria Avenue.\n\nThe Student Center is a green-colored building, and it contains several amenities listed in the legend, such as all-gender restrooms, restrooms, elevators, and a fitness room. A small plaza or courtyard area with benches is depicted at its south end, near a tunnel entrance connecting to the parking ramp."
+  },
+  {
+    "question": "Where is the Library and Learning Center located?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "Based on the text from the PDF, the **LIBRARY AND LEARNING CENTER (LIB)** is located on the campus map, but the provided text does not specify its exact street address or cross-streets (such as being between E. 7th Street and E. 6th Street, which are mentioned as main roads on the map). The text only lists \"LIBRARY AND LEARNING CENTER (LIB)\" as a labeled location and includes \"LIBRARY PARKING LOT\" and \"TWO-HOUR LIBRARY PARKING*\" in the legend and labels.\n\nTherefore, based **only** on the extracted text, I cannot determine the specific street location or address of the Library and Learning Center; I can only confirm it is a labeled building on the campus map.",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      }
+    ],
+    "multimodal_answer": "Based on the provided campus map, the Library and Learning Center (LIB) is located in the **northwestern quadrant** of the campus.\n\nHere are its specific spatial relationships:\n\n*   It is situated **north of E. 7th Street**.\n*   It is located west of **Maria Avenue**.\n*   The **North Library Parking Lot** is directly to its north.\n*   The **LIBRARY PARKING LOT** is to its east.\n*   It contains the **Saint Paul Public Library (Downtown Branch)** within its building footprint.\n*   To its immediate east, across a road, are the **Grow-It Center** and the **Fine Arts Studio**."
+  },
+  {
+    "question": "Where is the parking ramp relative to the Student Center?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "I could not determine it from the text.",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      }
+    ],
+    "multimodal_answer": "Based on the provided campus map, the **Parking Ramp** is located directly to the **south-southeast** of the **Student Center (SC)**.\n\n*   **Student Center (SC):** This is the green building.\n*   **Parking Ramp:** This is the large grey building labeled \"Parking Ramp / Student, Employee and Guest Parking\". They are adjacent to each other, with the ramp situated below and to the right of the Student Center on the map (which corresponds to south and east). The text evidence also confirms this, stating the Parking Ramp is \"south of the Student Center\"."
+  },
+  {
+    "question": "Where is St. John's Hall relative to the Student Center?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "Based on the extracted text from the PDF, the specific relative location of St. John's Hall (SJH) to the Student Center (SC) is not explicitly described (e.g., \"north of,\" \"next to,\" \"south of\"). The text lists \"STUDENT CENTER (SC)\" and \"ST. JOHN'S HALL (SJH)\" as separate items on the map legend/list without indicating their spatial relationship to one another.\n\nTherefore, I could not determine it from the text.",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "multimodal_answer": "Based on the campus map, St. John's Hall is two blocks **west** of the Student Center.\n\n1.  **Location of St. John's Hall:** It is a dark purple building located in the center-left quadrant of the main campus, north of E. 6th Street and east of New Main (NM).\n2.  **Location of the Student Center:** It is a green building located in the center-right quadrant, directly north of the large grey Parking Ramp.\n3.  **Relative Position:** The two buildings are separated by a block (which contains the Courtyard Parking Lot and a connecting tunnel). Therefore, St. John's Hall is situated two blocks to the **west** of the Student Center."
+  },
+  {
+    "question": "What building is south of E. 6th Street?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "Based on the extracted text from PDF page 1, **Jason R. Carter Science Education Center (SEC)** is listed immediately after \"E. 6th Street\" in the text flow, indicating it is south of E. 6th Street.",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "multimodal_answer": "Based on the provided Metro State University campus map, I analyzed the spatial layout to identify the building located south of E. 6th Street.\n\n1.  **Locate E. 6th Street:** I found the road labeled \"E. 6th Street\" running horizontally across the lower portion of the campus map.\n2.  **Identify Buildings South of the Street:** Looking at the area directly below (south of) E. 6th Street, there is one large, prominent orange-colored building.\n3.  **Read the Building's Label:** The label on this orange building clearly identifies it.\n\nThe building south of E. 6th Street is the **Jason R. Carter Science Education Center (SEC)**."
+  },
+  {
+    "question": "What parking areas are near the Library?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "Based on the text provided, the parking areas near the Library (Saint Paul Public Library) are the **NORTH LIBRARY PARKING LOT** and the **LIBRARY PARKING LOT**.",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      }
+    ],
+    "multimodal_answer": "Based on the provided map, the parking areas located near the Library and Learning Center (LIB) are:\n\n*   **North Library Parking Lot:** This is the large blue area located directly north of the Library building.\n*   **Library Parking Lot:** This appears in two places:\n   1.  A purple-colored area (indicating \"Two-Hour Library Parking\") located to the northeast of the Library, next to Mounds Blvd.\n    2.  Another purple-colored area to the east/southeast of the Library, near the Grow-It Center.\n*   **7th Street Parking Lot:** A large blue area located directly south of the Library and the Grow-It Center, along E. 7th Street."
+  },
+  {
+    "question": "How would you get from the Student Center to the Library?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "I could not determine it from the text.",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      }
+    ],
+    "multimodal_answer": "Based on the provided campus map, here is how you would get from the Student Center to the Library:\n\n1.  **Locate your starting point:** The Student Center is in the bottom right area of the campus map, situated **south of E. 7th Street** and west of Bates Avenue.\n2.  **Cross E. 7th Street:** Walk north from the Student Center. You will need to cross E. 7th Street to get to the next section of campus.\n3.  **Head West:** After crossing E. 7th Street, the Library is located in the northwest part of the campus. You will need to head westward across the 7th Street Parking Lot area.\n4.  **Arrival:** You will reach the large **Library and Learning Center (LIB)** building. It is located directly north of E. 7th Street."
+  },
+  {
+    "question": "What tunnels or skyways are shown on the map?",
+    "text_only_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "text_only_answer": "Based on the extracted text, the tunnels or skyways shown on the map are:\n\n*   **SKYWAY**\n*   **TUNNEL**\n*   **NEW TUNNEL (NM)**",
+    "multimodal_retrieval": [
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "visual"
+      },
+      {
+        "source": "source.pdf",
+        "page": 1,
+        "type": "text"
+      }
+    ],
+    "multimodal_answer": "Based on the Metro State University campus map provided, here are the tunnels and skyways shown, identified by their labels and connecting buildings:\n\n### Skyways\nA skyway is shown as a dashed line. It is located on the western side of the campus, south of E. 7th Street.\n*   **Location:** It runs vertically, connecting **New Main (NM)** on the west with **St. John's Hall (SJH)** on the east.\n*   **Visual Cues:** This connection is highlighted by a red-bordered box in the detailed image. There are star icons at the entry/exit points on both buildings.\n\n### Tunnels\nA tunnel is shown generally as a dashed line with the word \"TUNNEL\" (or \"TUNNEC\" due to a likely typo in the map's rendering) written alongside it. They are primarily located in the area between St. John's Hall, Founders Hall, and Auditorium.\n*   **Tunnel 1:** Connects **St. John's Hall (SJH)** directly south to **Founders Hall (FH)**.\n*   **Tunnel 2:** Connects **St. John's Hall (SJH)** southwest to the **Auditorium**.\n*   **Tunnel 3:** Connects the **Auditorium** eastward to **Founders Hall (FH)**.\n*   **Tunnel 4:** A short tunnel segment is shown within or connecting to **Founders Hall (FH)** near the courtyard.\n*   **Visual Cues:** The detailed image highlights these specific tunnel connections with red-bordered boxes. Star icons are also present at the tunnel entrances/exits on the full map."
+  }
+]

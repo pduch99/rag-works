@@ -1,0 +1,340 @@
+[
+ {
+  "id": "map-01",
+  "type": "visual_location",
+  "split": "dev",
+  "question": "Where is the Student Center based on the map?",
+  "expected_answer": "On the east side of campus, on the south side of E. 7th Street just east of Maria Avenue, directly north (north-west) of the Parking Ramp.",
+  "key_facts": [
+   "east side",
+   "E. 7th Street",
+   "north of the Parking Ramp"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0.5,
+     0,
+     1,
+     0.5
+    ]
+   }
+  ]
+ },
+ {
+  "id": "map-02",
+  "type": "visual_location",
+  "split": "dev",
+  "question": "Where is the Library and Learning Center located?",
+  "expected_answer": "In the north-west (top-left) corner of campus, on the north side of E. 7th Street, west of Maria Avenue, with the North Library Parking Lot just north of it.",
+  "key_facts": [
+   "north-west",
+   "north side of E. 7th Street",
+   "North Library Parking Lot"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0,
+     0,
+     0.5,
+     0.5
+    ]
+   }
+  ]
+ },
+ {
+  "id": "map-03",
+  "type": "visual_spatial",
+  "split": "dev",
+  "question": "Where is the parking ramp relative to the Student Center?",
+  "expected_answer": "The Parking Ramp is directly south / south-east of the Student Center, right next to it (between the Student Center and E. 6th Street).",
+  "key_facts": [
+   "south"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0.5,
+     0,
+     1,
+     0.5
+    ]
+   },
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0.5,
+     0.5,
+     1,
+     1
+    ]
+   }
+  ],
+  "notes": "fp5 retrieved ne + se correctly but the model said north-west. this is the retrieval-pass / generation-fail case"
+ },
+ {
+  "id": "map-04",
+  "type": "visual_spatial",
+  "split": "dev",
+  "question": "Where is St. John's Hall relative to the Student Center?",
+  "expected_answer": "St. John's Hall is west of the Student Center (slightly south), across Maria Avenue, just south of the 7th Street Parking Lot.",
+  "key_facts": [
+   "west",
+   "Maria Avenue"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0,
+     0,
+     0.5,
+     0.5
+    ]
+   },
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0.5,
+     0,
+     1,
+     0.5
+    ]
+   }
+  ]
+ },
+ {
+  "id": "map-05",
+  "type": "visual_spatial",
+  "split": "dev",
+  "question": "What building is south of E. 6th Street?",
+  "expected_answer": "The Jason R. Carter Science Education Center (SEC), connected to Founders Hall by a skyway over E. 6th Street.",
+  "key_facts": [
+   "Science Education Center"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0,
+     0.5,
+     0.5,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "id": "map-06",
+  "type": "visual_location",
+  "split": "dev",
+  "question": "What parking areas are near the Library?",
+  "expected_answer": "The North Library Parking Lot (north of the Library), the Library Parking Lots with two-hour library parking (east of the Library), and the 7th Street Parking Lot (south, across E. 7th Street).",
+  "key_facts": [
+   "North Library Parking Lot",
+   "Library Parking",
+   "7th Street Parking Lot"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0,
+     0,
+     0.5,
+     0.5
+    ]
+   }
+  ]
+ },
+ {
+  "id": "map-07",
+  "type": "visual_route",
+  "split": "dev",
+  "question": "How would you get from the Student Center to the Library?",
+  "expected_answer": "Head west along E. 7th Street, cross Maria Avenue, and continue west; the Library is on the north side of E. 7th Street in the north-west corner (you can cross E. 7th Street or use the skyway from the New Main / St. John's Hall side).",
+  "key_facts": [
+   "west",
+   "E. 7th Street"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0.5,
+     0,
+     1,
+     0.5
+    ]
+   },
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0,
+     0,
+     0.5,
+     0.5
+    ]
+   }
+  ]
+ },
+ {
+  "id": "map-08",
+  "type": "visual_detail",
+  "split": "dev",
+  "question": "What tunnels or skyways are shown on the map?",
+  "expected_answer": "Two skyways: one from the Library over E. 7th Street to the New Main / St. John's Hall area, and one from Founders Hall over E. 6th Street to the Science Education Center. Tunnels connect New Main to St. John's Hall, New Main to the Auditorium / Founders Hall, and St. John's Hall to Founders Hall.",
+  "key_facts": [
+   "skyway",
+   "tunnel",
+   "E. 6th Street",
+   "E. 7th Street"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0,
+     0,
+     0.5,
+     0.5
+    ]
+   },
+   {
+    "doc": "campus_map.pdf",
+    "page": 1,
+    "box": [
+     0,
+     0.5,
+     0.5,
+     1
+    ]
+   }
+  ]
+ },
+ {
+  "id": "txt-01",
+  "type": "text_fact",
+  "split": "dev",
+  "question": "When does spring 2027 priority registration begin?",
+  "expected_answer": "Monday, October 19, 2026.",
+  "key_facts": [
+   "October 19"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "registration.txt",
+    "page": 1,
+    "quote": "Spring priority registration begins Monday, October 19, 2026"
+   }
+  ]
+ },
+ {
+  "id": "txt-02",
+  "type": "text_exact",
+  "split": "dev",
+  "question": "When can a student with 60 to 89 credits register for spring 2027?",
+  "expected_answer": "Tuesday, October 27, at 8 a.m.",
+  "key_facts": [
+   "October 27",
+   "8 a.m."
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "registration.txt",
+    "page": 1,
+    "quote": "Tuesday, October 27, 8 a.m. 60–89 CR"
+   }
+  ]
+ },
+ {
+  "id": "txt-03",
+  "type": "text_fact",
+  "split": "dev",
+  "question": "When does fall 2026 registration begin?",
+  "expected_answer": "Monday, March 23, 2026 (in eServices).",
+  "key_facts": [
+   "March 23"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "academic_calendar.txt",
+    "page": 1,
+    "quote": "Monday, March 23, 2026\nFall 2026 registration begins in eServices"
+   }
+  ],
+  "notes": "close cousin of the fp2 'registration deadline' failure. two docs talk about registration"
+ },
+ {
+  "id": "txt-04",
+  "type": "text_fact",
+  "split": "dev",
+  "question": "What is the fall 2026 tuition payment deadline?",
+  "expected_answer": "Monday, August 3, 2026.",
+  "key_facts": [
+   "August 3"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "academic_calendar.txt",
+    "page": 1,
+    "quote": "Monday, August 3, 2026\nFall 2026 tuition payment deadline"
+   }
+  ]
+ },
+ {
+  "id": "txt-05",
+  "type": "text_fact",
+  "split": "dev",
+  "question": "What is the last day to drop a fall 2026 full session course with a refund?",
+  "expected_answer": "Friday, August 28, 2026.",
+  "key_facts": [
+   "August 28"
+  ],
+  "answerable": true,
+  "evidence": [
+   {
+    "doc": "academic_calendar.txt",
+    "page": 1,
+    "quote": "Friday, August 28, 2026\nFall 2026 first session and full session courses last date to drop with a refund"
+   }
+  ]
+ },
+ {
+  "id": "none-01",
+  "type": "unanswerable",
+  "split": "dev",
+  "question": "How many parking spaces does the Parking Ramp have?",
+  "expected_answer": "The documents don't say. The campus map shows where the Parking Ramp is but not how many spaces it has.",
+  "key_facts": [],
+  "answerable": false,
+  "evidence": []
+ }
+]

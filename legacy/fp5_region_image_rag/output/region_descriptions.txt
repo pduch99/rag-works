@@ -1,0 +1,110 @@
+
+PAGE 1
+REGION nw
+
+Based on the provided image and its cropped regions, here is a concise analysis of the information clearly visible:
+
+**Overall Context (Top-Left Image):**
+*   **Campus:** Metro State University (part of "Metro U... A member of Minn...").
+*   **Key Roads:** E. 7th Street runs horizontally across the center. Maria Avenue runs vertically on the right side.
+*   **Primary Landmark (Center-Left):** A large brown building labeled "LIBRARY AND LEARNING CENTER (LIB)" and "SAINT PAUL PUBLIC LIBRARY Dayston's Bluf".
+*   **Parking Lots:**
+    *   "NORTH LIBRARY PARKING LOT" (blue) is to the north of the Library.
+    *   "LIBRARY PARKING LOT" (purple) is to the east of the Library.
+    *   "7TH STREET PARKING LOT" (light blue with dark spots for cars) is to the south of the Library, along E. 7th Street.
+*   **Other Buildings:**
+    *   "FINE ARTS / GALLERY STUDIO" (orange) is on the far right, west of Maria Avenue.
+    *   "GROW-IT CENTER" (green) is north of the Fine Arts Studio.
+    *   "ST. JOHN'S HALL (6th W...)" (dark purple) is in the lower right corner, south of the 7th Street Parking Lot.
+*   **Infrastructure:** A vertical structure labeled "SKYW..." (likely Skyway) connects the ground level near the Library entrance to an upper level near St. John's Hall. A red circle with a 'T' indicates a transit stop near the intersection of E. 7th St and Maria Ave.
+*   **Outdoor Features:** A circular feature labeled "LABYRINTH" is visible to the west of the Library.
+
+**Detailed Views (Cropped Images):**
+
+*   **Bottom-Left Crop (Focus on Labyrinth & Library Entrance):**
+    *   Confirms the "LABYRINTH" and its position relative to the "LIBRARY AND LEARNING CENTER (LIB)".
+    *   Shows the entrance area of the library with several icons: coffee (food/cafe), restrooms, phone, information, accessibility, and a "No Smoking" sign.
+    *   Shows the
+
+
+PAGE 1
+REGION ne
+
+Based on the cropped images provided, here is the description of the clearly visible information:
+
+*   **Building Names**:
+    *   **STUDENT CENTER (SC)**: This is the primary building labeled in the map section (bottom center image), pictured as a green polygon.
+
+*   **Roads**:
+    *   **E. 7th Street**: This road is visible running horizontally across the top of the map section (bottom center image). The legend border has a rounded corner specifically accommodating a transit station located on this street.
+
+*   **Parking**:
+    *   **Indicated spaces**: To the left and rear of the Student Center, the map shows a gray polygon (representing a parking ramp/lot) and a purple-shaded area (representing "Permit Only Parking" or "Courtyard Parking" based on the legend).
+    *   **Parking Icons**: Inside the footprint of the Student Center on the left side, there is a row of circular blue and black icons indicating parking and mobility access (Standard parking `P`, Handicap parking, Bicycle parking).
+
+*   **Spatial Relationships & Amenities (Inside Student Center)**:
+    *   **West/Wing Area**: The left side (west) of the building is depicted as a vertical white column containing accessibility and retail icons:
+        *   Security Desk
+        *   Seating/Meeting Area
+        *   Baby Changing Station
+        *   All-Gender Restroom & Restroom
+        *   Parking Pay Kiosk
+    *   **Main Area**: To the right of the white column (inside the green building mass), there are icons for:
+        *   Elevators
+        *   Fitness Room
+        *   Lactation Space
+        *   Reflection Room
+        *   Information Desk (`?`)
+
+*   **Transport & Tunnels**:
+    *   **Transit**: There is a prominent red "T" (Metro Transit) icon located at the northeast corner of the map crop, appearing to sit on a gray ramp or tunnel structure that cuts through the greenery and nears the street. Another "T" icon is partially visible to the right.
+    *   **Emergency Infrastructure**: A blue telephone icon (Emergency Code Blue Phone) is visible on the pathway/lawn area to the right of the main building (bottom center image).
+
+
+PAGE 1
+REGION sw
+
+Based on the provided crop of the Metro State campus map, here are the visible details:
+
+**Buildings:**
+*   **New Main (NM):** A large building shown in blue on the left side.
+*   **Founders Hall (FH):** A building shown in maroon on the right side.
+*   **Jason R. Carter Science Education Center (SEC):** An orange-colored building located across the street.
+*   **Auditorium:** Partially visible, connecting the area behind Founders Hall.
+*   **Student Health/Hall (SJH):** Partially visible at the very top right.
+
+**Roads & Boundaries:**
+*   **E. 6th Street:** Runs horizontally across the lower-middle section of the map.
+*   **Mounds Blvd.:** Runs vertically along the left edge of the map.
+
+**Transportation & Parking:**
+*   **Court Yard Parking Lot:** Located to the right of New Main (NM). There is a walking tunnel connecting the main campus area to this lot.
+*   Bus routes (such as "08" and "10") are labeled along paths in the upper section of the crop.
+
+**Connections & Spatial Relationships:**
+*   **Tunnels:** There are labeled walking tunnels connecting different parts of the campus. Specifically, tunnels connect the area near the Courtyard Parking to the buildings, and another tunnel connects the area near New Main to Founders Hall.
+*   **Skyway:** A vertical label "SKYWAY" is visible, indicating an overhead walkway located over E. 6th Street, connecting the buildings on the north side to the Jason R. Carter Science Education Center on the south side.
+
+
+PAGE 1
+REGION se
+
+Based on the provided crop of the map (the bottom-right quadrant), here are the visible details:
+
+**Buildings & Parking**
+*   **Parking Ramp:** A large grey structure labeled "PARKING RAMP" (text partially cut off). The subtitle indicates it is for "STUDENT, EMPLOYEE AND GUEST PARKING".
+*   **Ramp Parking Lot:** Located to the left (west) of the parking ramp. It features distinct parking rows and includes icons for a "P" (parking) and a telephone (blue circle).
+*   **Large Building Footprint:** A large, light-green rectangular area occupies the bottom right. It features a series of windows or wall segments along its northern and western edges. This appears to be a large low-rise building or an open courtyard space enclosed by a perimeter wall.
+
+**Roads**
+*   **Bates Avenue:** A vertical road running along the right (east) edge of the crop. It runs parallel to the "Parking Ramp" and the green area.
+*   **Maria Avenue:** A vertical road on the far left edge of the crop (partially visible).
+*   **E. 6th Street:** A horizontal road dividing the top half from the bottom half of the crop. It runs along the top edge of the large green rectangular area.
+
+**Symbols & Icons**
+*   **Compass Rose:** Located in the center of the green space, indicating the cardinal directions.
+*   **Parking Icons:** Blue circles with a white "P".
+*   **Phone Icons:** Blue circles with a white handset symbol (appearing in the parking lot and near the ramp).
+
+**Revision Info**
+*   The text **"Revision Date: 3/25"** is visible at the very bottom right corner.

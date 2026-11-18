@@ -1,4 +1,12 @@
-groq
-chromadb
+streamlit>=1.67
+chromadb>=1.5
+fastembed>=0.9
+rank-bm25>=0.2.2
+pymupdf>=2.1
+pillow
+numpy
+pandas
+altair
 python-dotenv
-pymupdf
+openai>=3.49
+groq>=1.7

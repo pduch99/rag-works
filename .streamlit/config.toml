@@ -1,0 +1,31 @@
+# citrine ide theme (see docs/DESIGN.md). assets/citrine.css does the rest
+[theme]
+base = "light"
+primaryColor = "#B57A1A"
+backgroundColor = "#FAF6EC"
+secondaryBackgroundColor = "#FFFCF4"
+textColor = "#1A1814"
+linkColor = "#0F8A82"
+borderColor = "rgba(26, 24, 20, 0.12)"
+showWidgetBorder = true
+baseRadius = "6px"
+buttonRadius = "6px"
+codeBackgroundColor = "#FFFCF4"
+codeTextColor = "#5F574B"
+font = "'IBM Plex Sans':https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+headingFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap"
+codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&display=swap"
+headingFontWeights = [500, 500, 500, 500, 500, 500]
+headingFontSizes = ["2.25rem", "1.25rem", "1rem", "0.9375rem", "0.875rem", "0.8125rem"]
+
+[theme.sidebar]
+backgroundColor = "#FFFCF4"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 200
+
+[client]
+toolbarMode = "minimal"

@@ -1,4 +1,9 @@
+# secrets
 .env
+# local stuff
+.venv/
 __pycache__/
 *.pyc
-chroma_db/
+data/
+story_report.txt
+.streamlit/secrets.toml

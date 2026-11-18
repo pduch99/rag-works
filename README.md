@@ -9,7 +9,7 @@ RAG Works breaks RAG into seven stages, describes every RAG type by which stages
 | **Course** | ICS 499 Capstone, Metro State University, Fall 2026 |
 | **Team** | RAGtag |
 | **Author** | Patrick Duch |
-| **Instructor** | [instructor name] |
+| **Instructor** |  Siva Jasthi |
 | **Stack** | Python 3.11+, Streamlit, ChromaDB, PyMuPDF, fastembed, rank-bm25, Gemini / Groq / Ollama |
 | **License** | MIT |
 
